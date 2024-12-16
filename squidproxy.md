@@ -1,4 +1,4 @@
-Update and patch The Server:
+Update and patch the server:
 ```bash
 # Updating repositories and upgrading the OS:
 sudo apt-get update && sudo apt-get dist-upgrade
