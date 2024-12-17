@@ -165,6 +165,7 @@ You should prevent direct access to files like `.htaccess`, `.env`, and others t
 ```
 
 This will prevent the web server from serving hidden files such as those mentioned above that may contain sensitive information.
+
 Nginx Security Hardening:
 --
 
