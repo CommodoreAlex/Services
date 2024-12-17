@@ -1,5 +1,5 @@
 
-This is a repository containing security guides for configuring the following services on Linux systems:
+This is a repository containing security guides for configuring the following services on Linux (Ubuntu/Debian) systems:
 --
 
 * Secure Shell (SHH)
